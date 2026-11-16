@@ -44,3 +44,5 @@ docker compose up --build
 
 Do not commit `.env` or `node_modules`.
 docker docker docker 
+rock docker 
+
